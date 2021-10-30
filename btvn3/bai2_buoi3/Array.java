@@ -33,7 +33,6 @@ public class Array {
     }
     public void inputData() {
         System.out.print("Nhap n: ");
-        int n = sc.nextInt();
         int[] a = new int[n];
         System.out.println("Nhap phan tu cua mang: ");
         for (int i = 0; i < n; i++) {
